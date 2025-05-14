@@ -1,4 +1,4 @@
-# 🛡️ Audit de Sécurité - Projet Hacking : Test d'Intrusion chez ColorSheep
+# 🛡️ Audit de Sécurité : Test d'Intrusion chez ColorSheep
 
 Ce dépôt contient les livrables d'un test d'intrusion réalisé dans le cadre d’un projet d’audit de sécurité.
 Ce projet s’inscrit dans une démarche pédagogique encadrée et respecte les bonnes pratiques de l’éthique en cybersécurité.
